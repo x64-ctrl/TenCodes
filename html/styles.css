@@ -33,7 +33,7 @@ header {
 
 main {
     padding: 16px; /* Increase padding */
-    overflow-y: auto; /* Ensure the main element is scrollable */
+    overflow-y: auto;
 }
 
 /* Custom scrollbar styles */
@@ -111,5 +111,4 @@ button:disabled {
 
 .code-number {
     font-weight: bold;
-    color: #2656c9;
 }

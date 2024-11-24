@@ -6,7 +6,7 @@
 ------------------------------------------------------------------------
 ------------------------------------------------------------------------
 
-version "1.0"
+version "2.0.0"
 description "Ten Codes List"
 author "Andyyy#7666"
 
@@ -20,6 +20,8 @@ files {
 	"html/js/jquery-3.6.0.min.js",
 	"html/js/listener.js",
 	"html/style.css",
+	"html/codes.js",
+	"html/script.js", 
 }
 
 client_scripts {
